@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/pintar.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/pintar.html"
+        },
+        {
+            "type": "msedge",
+            "name": "http://127.0.0.1:3000/4_colores.html",
+            "request": "launch",
+            "url": "http://127.0.0.1:3000/4_colores.html"
+        }
+    ]
+}

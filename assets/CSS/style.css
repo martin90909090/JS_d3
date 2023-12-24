@@ -1,0 +1,29 @@
+* {
+  margin: 20px;
+  padding: 0;
+}
+
+.squares {
+  display: flex;
+  flex-direction: column;
+}
+.squares .blue {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.squares .red {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+.squares .green {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+.squares .yellow {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}/*# sourceMappingURL=style.css.map */
